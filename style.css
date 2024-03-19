@@ -42,12 +42,13 @@ body{
 .task{
     padding-left: 10px;
     padding-right: 10px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 4px;
+    padding-bottom: 4px;
     border: solid;
    border-radius: 5px;
    color: white;
    background-color: rgb(100, 167, 229);
+   font-size: x-small;
     }
 
 
@@ -58,8 +59,9 @@ body{
     border-radius: 5px;
     border-color: gray;
     color: gray;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: x-small;
 }
 
 .content2{
@@ -79,6 +81,7 @@ li{
     padding: 5px;
 
 
+
 }
 
 .check{
@@ -90,5 +93,75 @@ li{
 }
 h3{
     margin-top: 20px;
+    margin-bottom: 5px;
 }
 
+.button1{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border: solid;
+   border-radius: 10px;
+   color: white;
+   background-color: rgb(100, 167, 229);
+   font-size: x-small;
+    }
+
+    .button2{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        border: solid;
+       border-radius: 10px;
+       color: white;
+       background-color: rgb(149, 16, 147);
+       font-size: x-small;
+        }
+
+        .button3{
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 4px;
+            padding-bottom: 4px;
+            border: solid;
+           border-radius: 10px;
+           color: white;
+           background-color: rgb(1, 131, 40);
+           font-size: x-small;
+            }
+
+            .button4{
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-top: 4px;
+                padding-bottom: 4px;
+                border: solid;
+               border-radius: 10px;
+               color: white;
+               background-color: rgb(235, 104, 60);
+               font-size: x-small;
+                }
+                .button5{
+                    padding-left: 10px;
+                    padding-right: 10px;
+                    padding-top: 4px;
+                    padding-bottom: 4px;
+                    border: solid;
+                   border-radius: 10px;
+                   color: white;
+                   background-color: rgb(250, 14, 215);
+                   font-size: x-small;
+                    }
+                    .button6{
+                        padding-left: 10px;
+                        padding-right: 10px;
+                        padding-top: 4px;
+                        padding-bottom: 4px;
+                        border: solid;
+                       border-radius: 10px;
+                       color: white;
+                       background-color: rgb(143, 198, 165);
+                       font-size: x-small;
+                        }
