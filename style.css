@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.logotext {
+    font-size: 40px;
+    vertical-align: middle;
+}
+
+.logo{
+    vertical-align: middle;
+}
+.vertical{
+    padding: 10px;
+}
